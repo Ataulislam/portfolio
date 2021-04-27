@@ -1,0 +1,450 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*    banner part start*/
+    .banner_text a {
+        padding: 5px 20px;
+
+    }
+
+    /*    banner part end*/
+
+    /*    about part start*/
+    .about_me {
+        margin-top: 50px;
+    }
+
+    .about_me a {
+        padding: 5px 20px;
+    }
+
+    /*    about part end*/
+
+    /*    galery part start*/
+    .gal_mar_res {
+        margin-bottom: 30px;
+    }
+
+    /*    galery part end*/
+
+
+    /*    skill part start*/
+    .skill_heading .headding_bg {
+        font-size: 80px;
+
+    }
+
+    .single-progressbar h4 {
+        font-size: 18px;
+    }
+
+    /*    skill part end*/
+
+    /*    contact part start*/
+    .cont_chat h4 {
+        padding: 15px 0;
+    }
+
+    .cont_chat p {
+        font-size: 12px;
+    }
+
+    .cont_social {
+        margin-bottom: 30px;
+    }
+
+    .copy_text p {
+        font-size: 13px;
+    }
+
+    .cont_form .cont_botton {
+        padding: 5px 20px;
+    }
+
+    /*    contact part end*/
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /*    banner part start*/
+    .banner_text h5 {
+        font-size: 18px;
+    }
+
+    .typed_style {
+        font-size: 50px;
+    }
+
+    .banner_text a {
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+
+    .banner_text a i {
+        padding-left: 6px;
+        font-size: 20px;
+    }
+
+    /*    banner part end*/
+
+    /*    about part start*/
+    .about_me {
+        margin-top: 40px;
+    }
+
+    .about_me p {
+        font-size: 13px;
+
+    }
+
+    .about_me a {
+        font-size: 15px;
+        padding: 5px 15px;
+    }
+
+    .about_me a i {
+        padding-left: 6px;
+        font-size: 20px;
+    }
+
+    /*    about part end*/
+
+    /*    galery part start*/
+    .gal_mar_res {
+        margin-bottom: 30px;
+    }
+
+    /*    galery part end*/
+
+
+    /*    skill part start*/
+    .skill_heading .headding_bg {
+        letter-spacing: 3px;
+        font-size: 70px;
+
+    }
+
+    .head_inner h4 {
+        font-size: 23px;
+    }
+
+    .edu h5 {
+        font-size: 16px;
+    }
+
+    .edu h5 span {
+        font-size: 14px;
+    }
+
+    .edu p {
+        font-size: 12px;
+    }
+
+    .single-progressbar h4 {
+        font-size: 17px;
+    }
+
+
+    /*    skill part end*/
+
+    /*    contact part start*/
+
+    .Contact_head .headding_bg {
+        font-size: 80px;
+        letter-spacing: 3px;
+
+    }
+
+    .cont_chat h3 {
+        font-size: 22px;
+    }
+
+    .cont_chat h4 {
+        font-size: 20px;
+        padding: 15px 0;
+    }
+
+    .cont_chat p {
+        font-size: 12px;
+    }
+
+    .cont_social {
+        margin-bottom: 40px;
+    }
+
+    .cont_social ul li {
+        margin-right: 7px;
+    }
+
+    .cont_form .cont_botton {
+        font-size: 16px;
+        padding: 5px 20px;
+
+    }
+
+    .copy_text p {
+        font-size: 12px;
+    }
+
+    /*    contact part end*/
+}
+
+@media (max-width: 575px) {
+
+    /*menu part start*/
+    .main_menu .navbar-brand {
+        position: static;
+        width: 150px;
+        height: 50px;
+        line-height: 50px;
+    }
+
+    .main_menu {
+        top: 0px;
+        height: 58px;
+    }
+
+    .main_menu .navbar-nav {
+        background: #e23e38;
+    }
+
+    button:focus {
+        outline: 0;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.78)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }
+
+    .main_menu .navbar-brand img {
+        width: 100px
+    }
+
+    /*menu part end*/
+
+    /*banner part start*/
+    .banner_item {
+        padding: 120px 0 70px;
+    }
+
+    .banner_text h5 {
+        font-size: 15px;
+    }
+
+    .typed_style {
+        font-size: 35px;
+    }
+
+    .banner_text p {
+        font-size: 11px;
+        padding-bottom: 15px;
+        line-height: 15px;
+    }
+
+    .banner_text a {
+        font-size: 13px;
+        padding: 2px 10px;
+        line-height: 25px;
+    }
+
+
+    /*banner part end*/
+
+    /*about part start*/
+
+    #about_part {
+        padding: 50px 0;
+    }
+
+    .about_head .headding_bg {
+        font-size: 50px;
+        font-weight: 900;
+        letter-spacing: 7px;
+
+    }
+
+    .about_head h2 {
+        font-size: 28px;
+    }
+
+    .about_img {
+        width: 85%;
+
+    }
+
+    .about_me {
+        margin-top: 40px;
+    }
+
+    .about_me ul li {
+        padding-bottom: 8px;
+        font-size: 16px;
+    }
+
+    .about_me a {
+        font-size: 13px;
+        padding: 2px 10px;
+        line-height: 25px;
+    }
+
+
+    /*about part end*/
+
+    /*gallery part start*/
+    .gal_heading .headding_bg {
+        font-size: 50px;
+        font-weight: 900;
+        letter-spacing: 7px;
+
+    }
+
+    .gal_heading h2 {
+        font-size: 28px;
+    }
+
+
+    .gal_mar {
+        margin-bottom: 14px;
+    }
+
+    .gal_mar_res {
+        margin-bottom: 20px;
+        /*        margin: 12px;*/
+    }
+
+    /*gallery part end*/
+
+    /*skill part start*/
+    #skill_part {
+        margin: 50px 0;
+    }
+
+    .skill_heading .headding_bg {
+        font-size: 50px;
+        font-weight: 900;
+        letter-spacing: 2px;
+
+    }
+
+    .skill_heading h2 {
+        font-size: 28px;
+    }
+
+
+    .head_inner h4 {
+        font-size: 20px;
+    }
+
+    .edu h5 {
+        font-size: 14px;
+    }
+
+    .edu h5 span {
+        font-size: 12px;
+    }
+
+    .edu .time {
+        font-size: 13px;
+    }
+
+    .edu p {
+        font-size: 12px;
+        padding: 0 10px;
+    }
+
+    .edu {
+        left: 10px;
+    }
+
+    .single-progressbar h4 {
+        font-size: 14px;
+    }
+
+    .progressbar {
+        height: 12px;
+    }
+
+    .proggress {
+        height: 12px !important;
+    }
+
+    /*skill part end*/
+
+    /*contact part start*/
+    .Contact_head .headding_bg {
+        font-size: 50px;
+        font-weight: 900;
+        letter-spacing: 7px;
+
+    }
+
+    .Contact_head h2 {
+        font-size: 28px;
+    }
+
+    .cont_chat h3 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .cont_chat h4 {
+        font-size: 20px;
+        padding: 14px 0;
+        text-align: center;
+    }
+
+    .cont_chat h4 {
+        font-size: 20px;
+    }
+
+    .cont_chat p {
+        font-size: 11px;
+    }
+
+    .cont_social h5 {
+        font-size: 19px;
+    }
+
+    .cont_social ul li {
+        margin-right: 5px;
+    }
+
+    .cont_social ul li a {
+        width: 35px;
+        height: 35px;
+        line-height: 34px;
+    }
+
+    .f_box {
+        font-size: 13px;
+        height: 35px;
+    }
+
+    .m_box {
+        font-size: 13px;
+    }
+
+    .cont_form .cont_botton {
+        font-size: 14px;
+        padding: 5px 23px;
+        line-height: 23px;
+
+    }
+
+    .cont_social {
+        margin-bottom: 25px;
+    }
+
+    .copy_text p {
+        font-size: 11px;
+    }
+
+    /*contact part end*/
+}
